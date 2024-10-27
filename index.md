@@ -51,7 +51,7 @@ TBD
 
 ![Overview](/static/image/overview.png){: width="70%" height="70%"}{: .align-center}
 \
-*Figure 1: Overview.*
+       *Figure 1: Overview.*
 \
 <p align="center"><img src="/static/image/overview.png"></p>
 
