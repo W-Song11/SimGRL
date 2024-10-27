@@ -53,7 +53,7 @@ TBD
 \
 *Figure 1: Overview.*
 
-<p align="center">  <img src="/static/image/overview.png" align="center" width="32%"> <figcaption align="center">3개 이미지 띄우기</figcaption></p>
+<p align="center">  <img src="./static/image/overview.png" align="center" width="32%"> <figcaption align="center">3개 이미지 띄우기</figcaption></p>
 
 ## Results
 TBD
