@@ -2,11 +2,11 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations
 authors:
-    A. M. Turing
+    Wonil Song
 affiliations:
-    King's College, Cambridge
+    Yonsei University, Seoul, Korea
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
@@ -18,7 +18,25 @@ data: https://huggingface.co/docs/datasets
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-The "computable" numbers may be described briefly as the real
+In the rapidly evolving domain of vision-based deep reinforcement learning (RL),
+a pivotal challenge is to achieve generalization capability to dynamic environmental
+changes reflected in visual observations. Our work delves into the intricacies
+of this problem, identifying two key issues that appear in previous approaches
+for visual RL generalization: (i) imbalanced saliency and (ii) observational
+overfitting. Imbalanced saliency is a phenomenon where an RL agent
+disproportionately identifies salient features across consecutive frames in a frame
+stack. Observational overfitting occurs when the agent focuses on certain background
+regions rather than task-relevant objects. To address these challenges, we
+present a simple yet effective framework for generalization in visual RL (SimGRL)
+under dynamic scene perturbations. First, to mitigate the imbalanced saliency
+problem, we introduce an architectural modification to the image encoder to
+stack frames at the feature level rather than the image level. Simultaneously,
+to alleviate the observational overfitting problem, we propose a novel technique
+based on shifted random overlay augmentation, which is specifically designed
+to learn robust representations capable of effectively handling dynamic visual
+scenes. Extensive experiments demonstrate the superior generalization capability
+of SimGRL, achieving state-of-the-art performance in benchmarks including the
+DeepMind Control Suite.
         </div>
     </div>
 </div>
