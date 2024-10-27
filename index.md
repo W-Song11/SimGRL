@@ -4,10 +4,10 @@ permalink: /
 
 title: A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations
 authors:
-    Wonil Song^^1, Hyesong Choi^2, Kwanghoon Sohn^1, Dongbo Min^1
+    Wonil Song<sup>1</sup>, Hyesong Choi<sup>2</sup>, Kwanghoon Sohn<sup>1</sup>, Dongbo Min<sup>2</sup>
 affiliations:
-    1. Yonsei University, Seoul, Korea
-    2. Ewha Womans University, Seoul, Korea
+    <sup>1</sup>Yonsei University, Seoul, Korea
+    <sup>2</sup>Ewha Womans University, Seoul, Korea
 paper: #https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: #https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/W-Song11/SimGRL-Code
