@@ -54,7 +54,6 @@ TBD
 
 <p align="center">
   <img src="/static/image/overview.png" height="70%" width="70%">
-*Figure 1: Overview.*
 </p>
 
 
