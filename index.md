@@ -48,18 +48,18 @@ TBD
 
 ## Overview
 TBD
-
+<div align=center>	
 ![Overview](/static/image/overview.png){: width="70%" height="70%"}
-
 *Figure 1: Overview.*
+</div>
 
 
 ## Results
 TBD
 
-![Video](/static/image/walker_walk_train.gif){: width="10%" height="10%"}
-![Arrow](/static/image/arrow.png){: width="100%" height="100%"}
-![Video2](/static/image/walker_walk_test1.gif){: width="10%" height="10%"}
+![Video](/static/image/walker_walk_train.gif){: width="15%" height="15%"}
+![Arrow](/static/image/arrow.png){: width="15%" height="15%"}
+![Video2](/static/image/walker_walk_test1.gif){: width="15%" height="15%"}
 
 ## Citation
 ```
