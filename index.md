@@ -53,7 +53,8 @@ TBD
 \
 *Figure 1: Overview.*
 
-<p align="center">  <img src="./static/image/overview.png" align="center" width="70%"> <figcaption align="center">*Figure 1: Overview.*</figcaption></p>
+<p align="center">  <img src="./static/image/overview.png" align="center" width="70%"> <figcaption align="center"></p>\
+*Figure 1: Overview.*
 
 ## Results
 TBD
