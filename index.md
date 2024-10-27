@@ -54,6 +54,8 @@ TBD
 *Figure 1: Overview.*{: .align-center}
 \
 <p align="center">중앙에 정렬된 항목</p>
+\
+<p align="center"><img src="/static/image/overview.png" width="70%" height="70%"></p>
 
 ## Results
 TBD
