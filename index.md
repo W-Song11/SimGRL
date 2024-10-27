@@ -32,7 +32,7 @@ under dynamic scene perturbations. First, to mitigate the imbalanced saliency
 problem, we introduce an architectural modification to the image encoder to
 stack frames at the feature level rather than the image level. Simultaneously,
 to alleviate the observational overfitting problem, we propose a novel technique
-based on shifted random overlay augmentation, which is specifically designed
+called shifted random overlay augmentation, which is specifically designed
 to learn robust representations capable of effectively handling dynamic visual
 scenes. Extensive experiments demonstrate the superior generalization capability
 of SimGRL, achieving state-of-the-art performance in benchmarks including the
