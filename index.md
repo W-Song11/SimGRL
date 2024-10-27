@@ -6,8 +6,7 @@ title: A Simple Framework for Generalization in Visual RL under Dynamic Scene Pe
 authors:
     Wonil Song<sup>1</sup>, Hyesong Choi<sup>2</sup>, Kwanghoon Sohn<sup>1</sup>, Dongbo Min<sup>2</sup>
 affiliations:
-    <sup>1</sup>Yonsei University, Seoul, Korea
-    <sup>2</sup>Ewha Womans University, Seoul, Korea
+    <sup>1</sup>Yonsei University, Seoul, Korea, <sup>2</sup>Ewha Womans University, Seoul, Korea
 paper: #https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: #https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/W-Song11/SimGRL-Code
