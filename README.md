@@ -1,1 +1,1 @@
-# SimGRL-page
+# SimGRL Project Page
