@@ -4,7 +4,7 @@ permalink: /
 
 title: A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations
 authors:
-    Wonil Song^1, Hyesong Choi^2, Kwanghoon Sohn^1, Dongbo Min^1
+    Wonil Song^^1, Hyesong Choi^2, Kwanghoon Sohn^1, Dongbo Min^1
 affiliations:
     1. Yonsei University, Seoul, Korea
     2. Ewha Womans University, Seoul, Korea
@@ -82,4 +82,3 @@ year={2024},
 url={https://openreview.net/forum?id=0AumdfLzpK}
 }
 ```
-> Note: Website template borrowed from Nerfies made by Keunhong Park.
