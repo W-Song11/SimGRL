@@ -44,15 +44,15 @@ DeepMind Control Suite.
 
 ---
 
-## Background
-The paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was published by Alan Turing in 1936. In this groundbreaking paper, Turing introduced the concept of a universal computing machine, now known as the Turing machine.
+## Motivation
+TBD
 
-## Objective
-Turing's main objective in this paper was to investigate the notion of computability and its relation to the Entscheidungsproblem (the decision problem), which is concerned with determining whether a given mathematical statement is provable or not.
+## Overview
+TBD
 
 
 ## Key Ideas
-1. Turing first presented the concept of a "computable number," which refers to a number that can be computed by an algorithm or a definite step-by-step process.
+TBD
 
 ![Turing Machine](/static/image/Turing_machine.png)
 
@@ -69,7 +69,7 @@ Turing's main objective in this paper was to investigate the notion of computabi
 He used the concept of a universal Turing machine to prove that the set of computable functions is recursively enumerable, meaning it can be listed by an algorithm.
 
 ## Significance
-Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers.
+TBD
 
 ## Citation
 ```
