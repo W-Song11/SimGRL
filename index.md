@@ -82,3 +82,4 @@ year={2024},
 url={https://openreview.net/forum?id=0AumdfLzpK}
 }
 ```
+> Note: Website template borrowed from NeRFies made by Keunhong Park.
