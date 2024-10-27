@@ -62,6 +62,8 @@ TBD
 ![Arrow](/static/image/arrow.png){: width="10%" height="10%"}
 ![Video2](/static/image/walker_walk_test1.gif){: width="15%" height="15%"}
 
+<p align="center">  <img src="./static/image/walker_walk_train.gif" align="center" width="15%">  <img src="./static/image/arrow.png" align="center" width="8%">  <img src="/static/image/walker_walk_test1.gif" align="center" width="15%"></p>
+
 ## Citation
 ```
 @inproceedings{
