@@ -50,13 +50,13 @@ TBD
 ## Overview
 TBD
 
+![Overview](/static/image/fig_overview.pdf)
+
+*Figure 1: Overview.*
+
 
 ## Key Ideas
 TBD
-
-![Turing Machine](/static/image/Turing_machine.png)
-
-*Figure 1: A representation of a Turing Machine. Source: [Wiki](https://en.wikipedia.org/wiki/Turing_machine).*
 
 ## Table: Comparison of Computable and Non-Computable Numbers
 
