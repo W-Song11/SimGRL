@@ -48,10 +48,10 @@ TBD
 
 ## Overview
 TBD
-<p align=center>	
+<center>	
 ![Overview](/static/image/overview.png){: width="70%" height="70%"}
 *Figure 1: Overview.*
-</p>
+</center>
 
 
 ## Results
