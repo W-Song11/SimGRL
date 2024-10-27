@@ -57,6 +57,8 @@ TBD
 ## Results
 TBD
 
+![Video](/static/image/walker_walk_train.gif)
+
 ## Citation
 ```
 @inproceedings{
