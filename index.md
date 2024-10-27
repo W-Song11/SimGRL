@@ -49,15 +49,21 @@ TBD
 ## Overview
 TBD
 
-<p align="center">  <img src="./static/image/overview.png" align="center" width="80%"> <figcaption align="center"></p>
-
+<p align="center">
+<img src="./static/image/overview.png" align="center" width="80%">
+</p>
 
 *Figure 1: Overview.*
 
 ## Results
 TBD
 
-<p align="center">  <img src="./static/image/walker_walk_train.gif" align="center" width="15%">  <img src="./static/image/arrow.png" align="center" width="8%">  <img src="./static/image/walker_walk_test1.gif" align="center" width="15%"> <img src="./static/image/walker_walk_test2.gif" align="center" width="15%"></p>
+<p align="center">
+<img src="./static/image/walker_walk_train.gif" align="center" width="15%"> 
+<img src="./static/image/arrow.png" align="center" width="8%">
+<img src="./static/image/walker_walk_test1.gif" align="center" width="15%"> 
+<img src="./static/image/walker_walk_test2.gif" align="center" width="15%">
+</p>
 
 
 ## Citation
