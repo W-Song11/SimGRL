@@ -7,10 +7,10 @@ authors:
     Wonil Song
 affiliations:
     Yonsei University, Seoul, Korea
-paper: %https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: %https://www.youtube.com/results?search_query=turing+machine
+paper: #https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+video: #https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/W-Song11/SimGRL-Code
-data: %https://huggingface.co/docs/datasets
+data: #https://huggingface.co/docs/datasets
 ---
 
 <!-- Using HTML to center the abstract -->
