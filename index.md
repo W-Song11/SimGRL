@@ -51,7 +51,7 @@ TBD
 
 <p align="center">  <img src="./static/image/overview.png" align="center" width="70%"> <figcaption align="center"></p>
 
-*Figure 1: Overview.*
+*Figure 1: Overview.*{: .text-center }
 
 ## Results
 TBD
