@@ -49,7 +49,7 @@ TBD
 ## Overview
 TBD
 
-<p align="center">  <img src="./static/image/overview.png" align="center" width="70%"> <figcaption align="center"></p>
+<p align="center">  <img src="./static/image/overview.png" align="center" width="80%"> <figcaption align="center"></p>
 
 
 *Figure 1: Overview.*
