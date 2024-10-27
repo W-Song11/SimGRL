@@ -49,7 +49,7 @@ TBD
 ## Overview
 TBD
 
-![Overview](/static/image/overview.png)
+![Overview](/static/image/overview.png){: width="70%" height="70%"}
 
 *Figure 1: Overview.*
 
@@ -57,7 +57,7 @@ TBD
 ## Results
 TBD
 
-![Video](/static/image/walker_walk_train.gif)
+![Video](/static/image/walker_walk_train.gif){: width="40%" height="40%"}
 
 ## Citation
 ```
