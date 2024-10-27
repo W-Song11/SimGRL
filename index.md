@@ -50,7 +50,7 @@ TBD
 ## Overview
 TBD
 
-![Overview](/static/image/fig_overview.pdf)
+![Overview](/static/image/overview.png)
 
 *Figure 1: Overview.*
 
