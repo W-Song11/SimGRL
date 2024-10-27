@@ -57,7 +57,7 @@ TBD
 ## Results
 TBD
 
-![Video](/static/image/walker_walk_train.gif){: width="40%" height="40%"}
+![Video](/static/image/walker_walk_train.gif){: width="10%" height="10%"}
 
 ## Citation
 ```
