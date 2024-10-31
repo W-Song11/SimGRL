@@ -107,9 +107,9 @@ Robotic Manipulation
 <p align="center">
 <img src="./static/image/reach/1_train.gif" align="center" width="10%">
 <img src="./static/image/reach/2_train.gif" align="center" width="10%">
-&nbsp;&nbsp;
+&nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
-&nbsp;&nbsp;
+&nbsp;
 <img src="./static/image/reach/1_test1.gif" align="center" width="10%">
 <img src="./static/image/reach/2_test1.gif" align="center" width="10%">
 &nbsp;&nbsp;
@@ -123,9 +123,9 @@ Robotic Manipulation
 <p align="center">
 <img src="./static/image/pegbox/1_train.gif" align="center" width="10%">
 <img src="./static/image/pegbox/2_train.gif" align="center" width="10%">
-&nbsp;&nbsp;
+&nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
-&nbsp;&nbsp;
+&nbsp;
 <img src="./static/image/pegbox/1_test1.gif" align="center" width="10%">
 <img src="./static/image/pegbox/2_test1.gif" align="center" width="10%">
 &nbsp;&nbsp;
