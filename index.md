@@ -61,7 +61,7 @@ TBD
 TBD
 
 <p align="center">
-<img src="./static/image/fig_result.PNG" align="center" width="80%">
+<img src="./static/image/fig_result.PNG" align="center" width="90%">
 </p>
 
 ## Demonstrations
