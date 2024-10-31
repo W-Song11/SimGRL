@@ -71,7 +71,7 @@ DMControl-GB
 <img src="./static/image/arrow.png" align="center" width="6%">
 <img src="./static/image/walker_walk_test1.gif" align="center" width="10%">
 <img src="./static/image/walker_walk_test2.gif" align="center" width="10%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./static/image/walker_stand_train.gif" align="center" width="10%">
 <img src="./static/image/arrow.png" align="center" width="6%">
 <img src="./static/image/walker_stand_test1.gif" align="center" width="10%">
@@ -83,7 +83,7 @@ DMControl-GB
 <img src="./static/image/arrow.png" align="center" width="6%">
 <img src="./static/image/cartpole_test1.gif" align="center" width="10%">
 <img src="./static/image/cartpole_test2.gif" align="center" width="10%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./static/image/cup_catch_train.gif" align="center" width="10%">
 <img src="./static/image/arrow.png" align="center" width="6%">
 <img src="./static/image/cup_catch_test1.gif" align="center" width="10%">
@@ -91,15 +91,15 @@ DMControl-GB
 </p>
 
 <p align="center">
-<img src="./static/image/finger_train.gif" align="center" width="12%">
+<img src="./static/image/finger_train.gif" align="center" width="10%">
 <img src="./static/image/arrow.png" align="center" width="6%">
-<img src="./static/image/finger_test1.gif" align="center" width="12%">
-<img src="./static/image/finger_test2.gif" align="center" width="12%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./static/image/cheetah_train.gif" align="center" width="12%">
+<img src="./static/image/finger_test1.gif" align="center" width="10%">
+<img src="./static/image/finger_test2.gif" align="center" width="10%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./static/image/cheetah_train.gif" align="center" width="10%">
 <img src="./static/image/arrow.png" align="center" width="6%">
-<img src="./static/image/cheetah_test1.gif" align="center" width="12%">
-<img src="./static/image/cheetah_test2.gif" align="center" width="12%">
+<img src="./static/image/cheetah_test1.gif" align="center" width="10%">
+<img src="./static/image/cheetah_test2.gif" align="center" width="10%">
 </p>
 
 DistractingCS
