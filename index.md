@@ -2,11 +2,11 @@
 layout: project_page
 permalink: /
 
-title: <p style="font-size:40px">A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations</p> <p style="font-size:35px">NeurIPS 2024</p>
+title: <p style="font-size:40px">A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations</p> <p style="font-size:38px">NeurIPS 2024</p>
 authors:
     Wonil Song<sup>1</sup>, Hyesong Choi<sup>2</sup>, Kwanghoon Sohn<sup>1</sup>, Dongbo Min<sup>2</sup>
 affiliations:
-    <p style="font-size:20px"><sup>1</sup>Yonsei University, Seoul, Korea, <sup>2</sup>Ewha Womans University, Seoul, Korea</p>
+    <p style="font-size:18px"><sup>1</sup>Yonsei University, Seoul, Korea, <sup>2</sup>Ewha Womans University, Seoul, Korea</p>
 paper: #https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: #https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/W-Song11/SimGRL-Code
