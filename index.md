@@ -58,7 +58,7 @@ TBD
 *Figure 1: Overview.*
 
 ## Results
-TBD
+DMControl-GB
 
 <p align="center">
 <img src="./static/image/fig_result.PNG" align="center" width="90%">
@@ -102,36 +102,38 @@ TBD
 <img src="./static/image/cheetah_test2.gif" align="center" width="12%">
 </p>
 
+Robotic Manipulation
+
 <p align="center">
-<img src="./static/image/reach/1_train.gif" align="center" width="12%">
-<img src="./static/image/reach/2_train.gif" align="center" width="12%">
+<img src="./static/image/reach/1_train.gif" align="center" width="10%">
+<img src="./static/image/reach/2_train.gif" align="center" width="10%">
 &nbsp;&nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
 &nbsp;&nbsp;
-<img src="./static/image/reach/1_test1.gif" align="center" width="12%">
-<img src="./static/image/reach/2_test1.gif" align="center" width="12%">
+<img src="./static/image/reach/1_test1.gif" align="center" width="10%">
+<img src="./static/image/reach/2_test1.gif" align="center" width="10%">
 &nbsp;&nbsp;
-<img src="./static/image/reach/1_test2.gif" align="center" width="12%">
-<img src="./static/image/reach/2_test2.gif" align="center" width="12%">
+<img src="./static/image/reach/1_test2.gif" align="center" width="10%">
+<img src="./static/image/reach/2_test2.gif" align="center" width="10%">
 &nbsp;&nbsp;
-<img src="./static/image/reach/1_test3.gif" align="center" width="12%">
-<img src="./static/image/reach/2_test3.gif" align="center" width="12%">
+<img src="./static/image/reach/1_test3.gif" align="center" width="10%">
+<img src="./static/image/reach/2_test3.gif" align="center" width="10%">
 </p>
 
 <p align="center">
-<img src="./static/image/pegbox/1_train.gif" align="center" width="12%">
-<img src="./static/image/pegbox/2_train.gif" align="center" width="12%">
+<img src="./static/image/pegbox/1_train.gif" align="center" width="10%">
+<img src="./static/image/pegbox/2_train.gif" align="center" width="10%">
 &nbsp;&nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
 &nbsp;&nbsp;
-<img src="./static/image/pegbox/1_test1.gif" align="center" width="12%">
-<img src="./static/image/pegbox/2_test1.gif" align="center" width="12%">
+<img src="./static/image/pegbox/1_test1.gif" align="center" width="10%">
+<img src="./static/image/pegbox/2_test1.gif" align="center" width="10%">
 &nbsp;&nbsp;
-<img src="./static/image/pegbox/1_test2.gif" align="center" width="12%">
-<img src="./static/image/pegbox/2_test2.gif" align="center" width="12%">
+<img src="./static/image/pegbox/1_test2.gif" align="center" width="10%">
+<img src="./static/image/pegbox/2_test2.gif" align="center" width="10%">
 &nbsp;&nbsp;
-<img src="./static/image/pegbox/1_test3.gif" align="center" width="12%">
-<img src="./static/image/pegbox/2_test3.gif" align="center" width="12%">
+<img src="./static/image/pegbox/1_test3.gif" align="center" width="10%">
+<img src="./static/image/pegbox/2_test3.gif" align="center" width="10%">
 </p>
 
 
