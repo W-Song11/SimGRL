@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: <p>A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations NeurIPS 2024: 20px</p>
+title: <p style="font-size:10px">A Simple Framework for Generalization in Visual RL under Dynamic Scene Perturbations NeurIPS 2024</p>
 authors:
     Wonil Song<sup>1</sup>, Hyesong Choi<sup>2</sup>, Kwanghoon Sohn<sup>1</sup>, Dongbo Min<sup>2</sup>
 affiliations:
