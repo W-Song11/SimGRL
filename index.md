@@ -174,6 +174,22 @@ DistractingCS
 <img src="./static/image/DistractingCS_finger/intensity_0.3.gif" align="center" width="10%">
 </p>
 
+<p align="center">
+<img src="./static/image/DistractingCS_cartpole/train.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/arrow.png" align="center" width="6%">
+&nbsp;
+<img src="./static/image/DistractingCS_cartpole/intensity_0.05.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_cartpole/intensity_0.1.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_cartpole/intensity_0.15.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_cartpole/intensity_0.2.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_cartpole/intensity_0.3.gif" align="center" width="10%">
+</p>
+
 
 Robotic Manipulation
 
