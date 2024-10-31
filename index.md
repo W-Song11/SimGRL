@@ -7,7 +7,7 @@ authors:
     Wonil Song<sup>1</sup>, Hyesong Choi<sup>2</sup>, Kwanghoon Sohn<sup>1</sup>, Dongbo Min<sup>2</sup>
 affiliations:
     <p style="font-size:18px"><sup>1</sup>Yonsei University, Seoul, Korea, <sup>2</sup>Ewha Womans University, Seoul, Korea</p>
-paper: #https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+paper: https://openreview.net/pdf?id=0AumdfLzpK
 video: #https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/W-Song11/SimGRL-Code
 data: #https://huggingface.co/docs/datasets
@@ -67,6 +67,20 @@ TBD
 <img src="./static/image/arrow.png" align="center" width="8%">
 <img src="./static/image/walker_walk_test1.gif" align="center" width="15%"> 
 <img src="./static/image/walker_walk_test2.gif" align="center" width="15%">
+</p>
+
+<p align="center">
+<img src="./static/image/walker_stand_train.gif" align="center" width="15%"> 
+<img src="./static/image/arrow.png" align="center" width="8%">
+<img src="./static/image/walker_stand_test1.gif" align="center" width="15%"> 
+<img src="./static/image/walker_stand_test2.gif" align="center" width="15%">
+</p>
+
+<p align="center">
+<img src="./static/image/cartpole_train.gif" align="center" width="15%"> 
+<img src="./static/image/arrow.png" align="center" width="8%">
+<img src="./static/image/cartpole_stand_test1.gif" align="center" width="15%"> 
+<img src="./static/image/cartpole_stand_test2.gif" align="center" width="15%">
 </p>
 
 
