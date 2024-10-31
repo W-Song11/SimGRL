@@ -102,6 +102,21 @@ DMControl-GB
 <img src="./static/image/cheetah_test2.gif" align="center" width="12%">
 </p>
 
+DistractingCS
+
+<p align="center">
+<img src="./static/image/DistractingCS_walker_walk/train.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/arrow.png" align="center" width="6%">
+&nbsp;
+<img src="./static/image/DistractingCS_walker_walk/intensity_0.05.gif" align="center" width="10%">
+<img src="./static/image/DistractingCS_walker_walk/intensity_0.1.gif" align="center" width="10%">
+<img src="./static/image/DistractingCS_walker_walk/intensity_0.15.gif" align="center" width="10%">
+<img src="./static/image/DistractingCS_walker_walk/intensity_0.2.gif" align="center" width="10%">
+<img src="./static/image/DistractingCS_walker_walk/intensity_0.3.gif" align="center" width="10%">
+</p>
+
+
 Robotic Manipulation
 
 <p align="center">
