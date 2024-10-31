@@ -68,7 +68,9 @@ DMControl-GB
 DMControl-GB
 <p align="center">
 <img src="./static/image/walker_walk_train.gif" align="center" width="10%">
+    &nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
+    &nbsp;
 <img src="./static/image/walker_walk_test1.gif" align="center" width="10%">
 <img src="./static/image/walker_walk_test2.gif" align="center" width="10%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,7 +82,9 @@ DMControl-GB
 
 <p align="center">
 <img src="./static/image/cartpole_train.gif" align="center" width="10%">
+    &nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
+    &nbsp;
 <img src="./static/image/cartpole_test1.gif" align="center" width="10%">
 <img src="./static/image/cartpole_test2.gif" align="center" width="10%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -92,7 +96,9 @@ DMControl-GB
 
 <p align="center">
 <img src="./static/image/finger_train.gif" align="center" width="10%">
+    &nbsp;
 <img src="./static/image/arrow.png" align="center" width="6%">
+    &nbsp;
 <img src="./static/image/finger_test1.gif" align="center" width="10%">
 <img src="./static/image/finger_test2.gif" align="center" width="10%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -134,6 +140,22 @@ DistractingCS
 <img src="./static/image/DistractingCS_walker_stand/intensity_0.2.gif" align="center" width="10%">
 &nbsp;
 <img src="./static/image/DistractingCS_walker_stand/intensity_0.3.gif" align="center" width="10%">
+</p>
+
+<p align="center">
+<img src="./static/image/DistractingCS_walker_cup/train.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/arrow.png" align="center" width="6%">
+&nbsp;
+<img src="./static/image/DistractingCS_walker_cup/intensity_0.05.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_walker_cup/intensity_0.1.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_walker_cup/intensity_0.15.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_walker_cup/intensity_0.2.gif" align="center" width="10%">
+&nbsp;
+<img src="./static/image/DistractingCS_walker_cup/intensity_0.3.gif" align="center" width="10%">
 </p>
 
 
