@@ -118,6 +118,22 @@ TBD
 <img src="./static/image/reach/2_test3.gif" align="center" width="12%">
 </p>
 
+<p align="center">
+<img src="./static/image/pegbox/1_train.gif" align="center" width="12%">
+<img src="./static/image/pegbox/2_train.gif" align="center" width="12%">
+&nbsp;&nbsp;
+<img src="./static/image/arrow.png" align="center" width="6%">
+&nbsp;&nbsp;
+<img src="./static/image/pegbox/1_test1.gif" align="center" width="12%">
+<img src="./static/image/pegbox/2_test1.gif" align="center" width="12%">
+&nbsp;&nbsp;
+<img src="./static/image/pegbox/1_test2.gif" align="center" width="12%">
+<img src="./static/image/pegbox/2_test2.gif" align="center" width="12%">
+&nbsp;&nbsp;
+<img src="./static/image/pegbox/1_test3.gif" align="center" width="12%">
+<img src="./static/image/pegbox/2_test3.gif" align="center" width="12%">
+</p>
+
 
 ## Citation
 ```
