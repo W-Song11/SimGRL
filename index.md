@@ -87,6 +87,27 @@ TBD
 <img src="./static/image/cartpole_test2.gif" align="center" width="15%">
 </p>
 
+<p align="center">
+<img src="./static/image/cup_catch_train.gif" align="center" width="15%"> 
+<img src="./static/image/arrow.png" align="center" width="8%">
+<img src="./static/image/cup_catch_test1.gif" align="center" width="15%"> 
+<img src="./static/image/cup_catch_test2.gif" align="center" width="15%">
+</p>
+
+<p align="center">
+<img src="./static/image/finger_train.gif" align="center" width="15%"> 
+<img src="./static/image/arrow.png" align="center" width="8%">
+<img src="./static/image/finger_test1.gif" align="center" width="15%"> 
+<img src="./static/image/finger_test2.gif" align="center" width="15%">
+</p>
+
+<p align="center">
+<img src="./static/image/cheetah_train.gif" align="center" width="15%"> 
+<img src="./static/image/arrow.png" align="center" width="8%">
+<img src="./static/image/cheetah_test1.gif" align="center" width="15%"> 
+<img src="./static/image/cheetah_test2.gif" align="center" width="15%">
+</p>
+
 
 ## Citation
 ```
