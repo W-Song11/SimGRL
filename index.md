@@ -44,7 +44,9 @@ DeepMind Control Suite.
 ---
 
 ## Motivation
-TBD
+<p align="center">
+<img src="./static/image/fig1.png" align="center" width="80%">
+</p>
 
 ## Overview
 TBD
