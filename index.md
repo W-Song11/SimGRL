@@ -65,7 +65,7 @@ DMControl-GB
 </p>
 
 ## Demonstrations
-TBD
+DMControl-GB
 <p align="center">
 <img src="./static/image/walker_walk_train.gif" align="center" width="12%">
 <img src="./static/image/arrow.png" align="center" width="6%">
