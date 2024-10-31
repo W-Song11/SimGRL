@@ -67,17 +67,15 @@ TBD
 ## Demonstrations
 TBD
 <p align="center">
-<img src="./static/image/walker_walk_train.gif" align="center" width="15%"> &nbsp;&nbsp;
-<img src="./static/image/arrow.png" align="center" width="8%"> &nbsp;&nbsp;
-<img src="./static/image/walker_walk_test1.gif" align="center" width="15%"> &nbsp;&nbsp;
-<img src="./static/image/walker_walk_test2.gif" align="center" width="15%"> &nbsp;&nbsp;
-</p>
-
-<p align="center">
-<img src="./static/image/walker_stand_train.gif" align="center" width="15%"> &nbsp;&nbsp;
-<img src="./static/image/arrow.png" align="center" width="8%"> &nbsp;&nbsp;
-<img src="./static/image/walker_stand_test1.gif" align="center" width="15%"> &nbsp;&nbsp;
-<img src="./static/image/walker_stand_test2.gif" align="center" width="15%"> &nbsp;&nbsp;
+<img src="./static/image/walker_walk_train.gif" align="center" width="12%">
+<img src="./static/image/arrow.png" align="center" width="6%"> &nbsp;&nbsp;
+<img src="./static/image/walker_walk_test1.gif" align="center" width="12%">
+<img src="./static/image/walker_walk_test2.gif" align="center" width="12%">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./static/image/walker_stand_train.gif" align="center" width="12%">
+<img src="./static/image/arrow.png" align="center" width="6%">
+<img src="./static/image/walker_stand_test1.gif" align="center" width="12%">
+<img src="./static/image/walker_stand_test2.gif" align="center" width="12%">
 </p>
 
 <p align="center">
