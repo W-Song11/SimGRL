@@ -229,9 +229,9 @@ Robotic Manipulation
 ## Citation
 ```
 @inproceedings{
-anonymous2024a,
+song2024a,
 title={A Simple Framework for Generalization in Visual {RL} under Dynamic Scene Perturbations},
-author={Anonymous},
+author={Wonil Song and Hyesong Choi and Kwanghoon Sohn and Dongbo Min},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 year={2024},
 url={https://openreview.net/forum?id=0AumdfLzpK}
