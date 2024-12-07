@@ -49,14 +49,16 @@ DeepMind Control Suite.
 </p>
 
 ## Method
-# Shifted Random Overlay Augmentation
+*1. Feature-Level Frame Stack*
+
+*2. Shifted Random Overlay Augmentation*
 <p align="center">
-<img src="./static/image/fig_sro.png" align="center" width="80%">
+<img src="./static/image/fig_sro.PNG" align="center" width="80%">
 </p>
 
-# SimGRL
+*SimGRL*
 <p align="center">
-<img src="./static/image/fig_simgrl_overview.png" align="center" width="80%">
+<img src="./static/image/fig_simgrl_overview.PNG" align="center" width="80%">
 </p>
 
 *Figure 1: Overview.*
