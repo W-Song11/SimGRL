@@ -90,7 +90,7 @@ DistractingCS
 Robotic Manipulation
 
 <p align="center">
-<img src="./static/image/fig_robotic.PNG" align="center" width="60%">
+<img src="./static/image/fig_robotic.PNG" align="center" width="65%">
 </p>
 
 ## Demonstrations
