@@ -69,7 +69,19 @@ DMControl-GB
 </p>
 
 <p align="center">
-<img src="./static/image/fig_ablation.PNG" align="center" width="80%">
+<img src="./static/image/fig_ablation.PNG" align="center" width="70%">
+</p>
+
+DistractingCS
+
+<p align="center">
+<img src="./static/image/fig_distractingcs.PNG" align="center" width="70%">
+</p>
+
+Robotic Manipulation
+
+<p align="center">
+<img src="./static/image/fig_robotic.PNG" align="center" width="60%">
 </p>
 
 ## Demonstrations
