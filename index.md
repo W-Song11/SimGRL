@@ -75,7 +75,7 @@ DMControl-GB
 DistractingCS
 
 <p align="center">
-<img src="./static/image/fig_distractingcs.PNG" align="center" width="70%">
+<img src="./static/image/fig_distractingcs.PNG" align="center" width="60%">
 </p>
 
 Robotic Manipulation
