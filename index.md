@@ -48,11 +48,15 @@ DeepMind Control Suite.
 <img src="./static/image/fig1.PNG" align="center" width="80%">
 </p>
 
-## Overview
-TBD
-
+## Method
+# Shifted Random Overlay Augmentation
 <p align="center">
-<img src="./static/image/overview.png" align="center" width="80%">
+<img src="./static/image/fig_sro.png" align="center" width="80%">
+</p>
+
+# SimGRL
+<p align="center">
+<img src="./static/image/fig_simgrl_overview.png" align="center" width="80%">
 </p>
 
 *Figure 1: Overview.*
