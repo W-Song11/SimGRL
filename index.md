@@ -65,7 +65,7 @@ DeepMind Control Suite.
 DMControl-GB
 
 <p align="center">
-<img src="./static/image/fig_result.PNG" align="center" width="80%">
+<img src="./static/image/fig_result.PNG" align="center" width="75%">
 </p>
 
 <p align="center">
