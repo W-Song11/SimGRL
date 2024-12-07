@@ -45,18 +45,20 @@ DeepMind Control Suite.
 
 ## Motivation
 <p align="center">
-<img src="./static/image/fig1.PNG" align="center" width="80%">
+<img src="./static/image/fig1.PNG" align="center" width="75%">
 </p>
 
 ## Method
 *1. Feature-Level Frame Stack*
+
 To alleviate the imbalanced saliency problem, we modify the encoder structure from an image-level frame stack to a feature-level frame stack.
 
 <p align="center">
-<img src="./static/image/fig_feat_stack.PNG" align="center" width="80%">
+<img src="./static/image/fig_feat_stack.PNG" align="center" width="50%">
 </p>
 
 *2. Shifted Random Overlay Augmentation*
+
 To alleviate the observational overfitting problem and make the encoder robust to dynamic backgrounds, we propose a new data augmentation called shifted random overlay.
 
 <p align="center">
