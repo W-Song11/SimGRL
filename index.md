@@ -54,7 +54,7 @@ DeepMind Control Suite.
 To alleviate the imbalanced saliency problem, we modify the encoder structure from an image-level frame stack to a feature-level frame stack.
 
 <p align="center">
-<img src="./static/image/fig_feat_stack.PNG" align="center" width="50%">
+<img src="./static/image/fig_feat_stack.PNG" align="center" width="55%">
 </p>
 
 *2. Shifted Random Overlay Augmentation*
@@ -90,7 +90,7 @@ DistractingCS
 Robotic Manipulation
 
 <p align="center">
-<img src="./static/image/fig_robotic.PNG" align="center" width="65%">
+<img src="./static/image/fig_robotic.PNG" align="center" width="70%">
 </p>
 
 ## Demonstrations
