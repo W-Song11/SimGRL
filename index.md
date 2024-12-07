@@ -68,6 +68,10 @@ DMControl-GB
 <img src="./static/image/fig_result.PNG" align="center" width="90%">
 </p>
 
+<p align="center">
+<img src="./static/image/fig_ablation.PNG" align="center" width="80%">
+</p>
+
 ## Demonstrations
 DMControl-GB
 <p align="center">
