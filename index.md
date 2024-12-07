@@ -61,8 +61,6 @@ DeepMind Control Suite.
 <img src="./static/image/fig_simgrl_overview.PNG" align="center" width="80%">
 </p>
 
-*Figure 1: Overview.*
-
 ## Results
 DMControl-GB
 
