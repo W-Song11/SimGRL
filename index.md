@@ -75,6 +75,10 @@ Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two
 <img src="./static/image/fig_simgrl_overview.PNG" align="center" width="80%">
 </p>
 
+<p align="center">
+<img src="./static/image/fig_masking.PNG" align="center" width="80%">
+</p>
+
 ## Results
 DMControl-GB
 
