@@ -66,6 +66,9 @@ To alleviate the observational overfitting problem and make the encoder robust t
 </p>
 
 *SimGRL*
+
+Based on SVEA as a baseline algorithm, we propose SimGRL by adopting the two regularizations.
+
 <p align="center">
 <img src="./static/image/fig_simgrl_overview.PNG" align="center" width="80%">
 </p>
