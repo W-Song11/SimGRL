@@ -80,7 +80,7 @@ Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two
 </p>
 
 ## Results
-*__DMControl-GB__*
+__DMControl-GB__
 
 <p align="center">
 <img src="./static/image/fig_result.PNG" align="center" width="80%">
@@ -90,20 +90,20 @@ Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two
 <img src="./static/image/fig_ablation.PNG" align="center" width="70%">
 </p>
 
-*__DistractingCS__*
+__DistractingCS__
 
 <p align="center">
 <img src="./static/image/fig_distractingcs.PNG" align="center" width="60%">
 </p>
 
-*__Robotic Manipulation__*
+__Robotic Manipulation__
 
 <p align="center">
 <img src="./static/image/fig_robotic.PNG" align="center" width="70%">
 </p>
 
 ## Demonstrations
-*__DMControl-GB__*
+__DMControl-GB__
 <p align="center">
 <img src="./static/image/walker_walk_train.gif" align="center" width="10%">
     &nbsp;
@@ -146,7 +146,7 @@ Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two
 <img src="./static/image/cheetah_test2.gif" align="center" width="10%">
 </p>
 
-*__DistractingCS__*
+__DistractingCS__
 
 Each test shows the results for intensity levels $\in$ {0.05, 0.1, 0.15, 0.2, 0.3}.
 
@@ -231,7 +231,7 @@ Each test shows the results for intensity levels $\in$ {0.05, 0.1, 0.15, 0.2, 0.
 </p>
 
 
-*__Robotic Manipulation__*
+__Robotic Manipulation__
 
 <p align="center">
 <img src="./static/image/reach/1_train.gif" align="center" width="10%">
