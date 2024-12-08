@@ -87,7 +87,7 @@ __DMControl-GB__
 </p>
 
 <p align="center">
-<img src="./static/image/fig_ablation.PNG" align="center" width="70%">
+<img src="./static/image/fig_ablation.PNG" align="center" width="75%">
 </p>
 
 __DistractingCS__
@@ -99,7 +99,7 @@ __DistractingCS__
 __Robotic Manipulation__
 
 <p align="center">
-<img src="./static/image/fig_robotic.PNG" align="center" width="70%">
+<img src="./static/image/fig_robotic.PNG" align="center" width="75%">
 </p>
 
 ## Demonstrations
