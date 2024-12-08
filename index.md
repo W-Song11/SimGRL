@@ -56,7 +56,7 @@ Using a gradient-based attribution mask, we investigate the causes of the degrad
 To alleviate the imbalanced saliency problem, we modify the encoder structure from an image-level frame stack to a feature-level frame stack.
 
 <p align="center">
-<img src="./static/image/fig_feat_stack.PNG" align="center" width="55%">
+<img src="./static/image/fig_feat_stack.PNG" align="center" width="60%">
 </p>
 
 *__2. Shifted Random Overlay Augmentation__*
