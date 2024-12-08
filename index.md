@@ -51,7 +51,7 @@ DeepMind Control Suite.
 Using a gradient-based attribution mask, we investigate the causes of the degradation in generalization in challenging environments by examining salient regions across consecutive stacked frames used as an RL input. Based on our analysis, we empirically identified two phenomena, highlighting them as key causes of performance degradation: (i) what we refer to as imbalanced saliency and (ii) observational overfitting [1].
 
 ## Method
-*1. Feature-Level Frame Stack*
+*__1. Feature-Level Frame Stack__*
 
 To alleviate the imbalanced saliency problem, we modify the encoder structure from an image-level frame stack to a feature-level frame stack.
 
@@ -59,7 +59,7 @@ To alleviate the imbalanced saliency problem, we modify the encoder structure fr
 <img src="./static/image/fig_feat_stack.PNG" align="center" width="55%">
 </p>
 
-*2. Shifted Random Overlay Augmentation*
+*__2. Shifted Random Overlay Augmentation__*
 
 To alleviate the observational overfitting problem and make the encoder robust to dynamic backgrounds, we propose a new data augmentation called shifted random overlay.
 
@@ -67,7 +67,7 @@ To alleviate the observational overfitting problem and make the encoder robust t
 <img src="./static/image/fig_sro.PNG" align="center" width="80%">
 </p>
 
-*SimGRL*
+*__SimGRL__*
 
 Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two regularizations.
 
@@ -80,7 +80,7 @@ Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two
 </p>
 
 ## Results
-DMControl-GB
+*__DMControl-GB__*
 
 <p align="center">
 <img src="./static/image/fig_result.PNG" align="center" width="75%">
@@ -90,20 +90,20 @@ DMControl-GB
 <img src="./static/image/fig_ablation.PNG" align="center" width="70%">
 </p>
 
-DistractingCS
+*__DistractingCS__*
 
 <p align="center">
 <img src="./static/image/fig_distractingcs.PNG" align="center" width="60%">
 </p>
 
-Robotic Manipulation
+*__Robotic Manipulation__*
 
 <p align="center">
 <img src="./static/image/fig_robotic.PNG" align="center" width="70%">
 </p>
 
 ## Demonstrations
-DMControl-GB
+*__DMControl-GB__*
 <p align="center">
 <img src="./static/image/walker_walk_train.gif" align="center" width="10%">
     &nbsp;
@@ -146,7 +146,9 @@ DMControl-GB
 <img src="./static/image/cheetah_test2.gif" align="center" width="10%">
 </p>
 
-DistractingCS
+*__DistractingCS__*
+
+Each test shows the results for intensity levels $\in$ {0.05, 0.1, 0.15, 0.2, 0.3}.
 
 <p align="center">
 <img src="./static/image/DistractingCS_walker_walk/train.gif" align="center" width="10%">
@@ -229,7 +231,7 @@ DistractingCS
 </p>
 
 
-Robotic Manipulation
+*__Robotic Manipulation__*
 
 <p align="center">
 <img src="./static/image/reach/1_train.gif" align="center" width="10%">
