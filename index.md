@@ -48,6 +48,8 @@ DeepMind Control Suite.
 <img src="./static/image/fig1.PNG" align="center" width="75%">
 </p>
 
+Using a gradient-based attribution mask, we investigate the causes of the degradation in generalization in challenging environments by examining salient regions across consecutive stacked frames used as an RL input. Based on our analysis, we empirically identified two phenomena, highlighting them as key causes of performance degradation: (i) what we refer to as imbalanced saliency and (ii) observational overfitting [1].
+
 ## Method
 *1. Feature-Level Frame Stack*
 
@@ -67,7 +69,7 @@ To alleviate the observational overfitting problem and make the encoder robust t
 
 *SimGRL*
 
-Based on SVEA as a baseline algorithm, we propose SimGRL by adopting the two regularizations.
+Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two regularizations.
 
 <p align="center">
 <img src="./static/image/fig_simgrl_overview.PNG" align="center" width="80%">
@@ -256,6 +258,12 @@ Robotic Manipulation
 <img src="./static/image/pegbox/1_test3.gif" align="center" width="10%">
 <img src="./static/image/pegbox/2_test3.gif" align="center" width="10%">
 </p>
+
+## Reference
+
+[1] Song et al. “Observational Overfitting in Reinforcement Learning.” ICLR (2020).
+
+[2] Hansen et al. “Stabilizing deep q-learning with convnets and vision transformers under data augmentation.” NeurIPS (2021).
 
 
 ## Citation
