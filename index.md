@@ -45,7 +45,7 @@ DeepMind Control Suite.
 
 ## Motivation
 <p align="center">
-<img src="./static/image/fig1.PNG" align="center" width="75%">
+<img src="./static/image/fig1.PNG" align="center" width="80%">
 </p>
 
 Using a gradient-based attribution mask, we investigate the causes of the degradation in generalization in challenging environments by examining salient regions across consecutive stacked frames used as an RL input. Based on our analysis, we empirically identified two phenomena, highlighting them as key causes of performance degradation: (i) what we refer to as imbalanced saliency and (ii) observational overfitting [1].
@@ -72,18 +72,18 @@ To alleviate the observational overfitting problem and make the encoder robust t
 Based on SVEA [2] as a baseline algorithm, we propose SimGRL by adopting the two regularizations.
 
 <p align="center">
-<img src="./static/image/fig_simgrl_overview.PNG" align="center" width="80%">
+<img src="./static/image/fig_simgrl_overview.PNG" align="center" width="85%">
 </p>
 
 <p align="center">
-<img src="./static/image/fig_masking.PNG" align="center" width="80%">
+<img src="./static/image/fig_masking.PNG" align="center" width="85%">
 </p>
 
 ## Results
 *__DMControl-GB__*
 
 <p align="center">
-<img src="./static/image/fig_result.PNG" align="center" width="75%">
+<img src="./static/image/fig_result.PNG" align="center" width="80%">
 </p>
 
 <p align="center">
