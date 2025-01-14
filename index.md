@@ -99,7 +99,7 @@ __DistractingCS__
 __Robotic Manipulation__
 
 <p align="center">
-<img src="./static/image/fig_robotic.PNG" align="center" width="75%">
+<img src="./static/image/fig_robotic.PNG" align="center" width="65%">
 </p>
 
 ## Demonstrations
